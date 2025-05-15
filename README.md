@@ -28,3 +28,5 @@ vim ~/.ansible-nevigator.tml
 <br/>
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/4c0641f7-d038-4873-875f-f8e35ef0e494" />
 
+  playbook-arctifact:
+    enable: false
